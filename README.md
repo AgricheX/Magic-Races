@@ -4,7 +4,7 @@
 
 > Humans, elves, orcs and dwarves cast spells and fight with their own magic staffs.
 
-**[Download Magic Races 0.0.3](https://github.com/AgricheX/magic-races/releases/latest/download/MagicRaces.zip)**
+**[Download Magic Races 0.0.3](https://github.com/AgricheX/Magic-Races/releases/latest/download/MagicRaces.zip)**
 
 | | |
 | --- | --- |
